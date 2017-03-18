@@ -1,7 +1,7 @@
 // configuration for showing representatives at different levels of government
 
-var show_federal = true; //change this to false to hide federal results
-var show_state   = true;
+var show_federal = false; //change this to false to hide federal results
+var show_state   = false;
 var show_county  = true;
 var show_local   = true;
 
